@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Programming 
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on Indie projects
-- 📫 How to reach me by my portfolio : https://fraboniandrea.altervista.org/
+- 📫 My portfolio : https://fraboniandrea.altervista.org/
 
 <!---
 AndreaFraboni/AndreaFraboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
