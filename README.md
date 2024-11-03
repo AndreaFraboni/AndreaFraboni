@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AndreaFraboni and I'm a Game Programmer
+- 👋 Hi, my name is AndreaFraboni and I'm a Game Programmer
 - 👀 I’m interested in Game Programming
 - 🌱 I have used Unity in DGBA Accademy level 2 for realize a complete game
 - 🌱 I have used Unreal Engine 5.4 in DGBA Accademy level 3 for realize a complete game
