@@ -10,3 +10,6 @@
 AndreaFraboni/AndreaFraboni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+My latest project is a prototype for a full game I created for my final project at EPICODE:
+https://andreafraboni.itch.io/the-forest-of-the-faun
